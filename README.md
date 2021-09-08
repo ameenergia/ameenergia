@@ -3,7 +3,7 @@
 
 <div>
   <a href="https://www.amenergia.com.br/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ameenergia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ameenergia&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
     
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameenergia)](https://github.com/ameenergia) -->
 
